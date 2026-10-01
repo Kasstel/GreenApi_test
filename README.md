@@ -7,6 +7,8 @@
 
 Стек: React, TypeScript, Vite. Своего бэкенда нет, браузер ходит в GREEN-API напрямую.
 
+Попробовать без установки: https://kasstel.github.io/GreenApi_test/
+
 ![Чат](docs/screenshots/dark_theme.png)
 ![Чат](docs/screenshots/light_theme.png)
 
